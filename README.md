@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=faLSrMWbSXU</p>
 <p>The model that was trained using George performed much better in the evaluation than the model which was trained with no particular sampling.<br>
 <br>The original model only performs well on images with the spurious feature.</p>
 <img src="https://github.com/user-attachments/assets/3478714e-70d0-42cc-8580-265d0d91755a">
-<p><br>The model which was trained with group balanced sampling performed well across all types of images.</p>
+<p><br>The model which was trained with group-balanced sampling performed well across all types of images.</p>
 <img src="https://github.com/user-attachments/assets/f64db5bb-9f13-4693-9b06-4d392e4e483a">
 
 <p><br>By Ritik Jalisatgi, along with help from SpuCo quickstart code<br>
