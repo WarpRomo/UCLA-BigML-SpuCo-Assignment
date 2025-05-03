@@ -3,7 +3,7 @@
 
 # Video Explanation
 ### Explanation of the code and methods can be found here:
-### (https://www.youtube.com/watch?v=faLSrMWbSXU)[https://www.youtube.com/watch?v=faLSrMWbSXU]
+### https://www.youtube.com/watch?v=faLSrMWbSXU
 ### [![Youtube Video](https://img.youtube.com/vi/faLSrMWbSXU/0.jpg)](https://www.youtube.com/watch?v=faLSrMWbSXU)
 
 # Results
