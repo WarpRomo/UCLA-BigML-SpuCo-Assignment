@@ -1,11 +1,11 @@
-# UCLA-BigML-SpuCo-Assignment
+## UCLA-BigML-SpuCo-Assignment
 <p>This contains the code for the sample SpuCo assignment, which involves training an accurate model on an MNIST dataset that contains spurious features, such as specific background colors amongst certain classes.</p>
 
-# Video Explanation
+## Video Explanation
 <p>Explanation of the code and methods can be found here:<br>
 https://www.youtube.com/watch?v=faLSrMWbSXU</p>
 
-# Results
+## Results
 <p>The model that was trained using the George Method and its sampling performed much better in the evaluation than the model which was trained with no particular sampling.
 <br>The original model only performs well on images with the spurious feature (background color)</p>
 <img src="https://github.com/user-attachments/assets/04ef4def-f7fa-44cb-8032-f86c08b31c44">
