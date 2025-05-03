@@ -13,3 +13,5 @@
 ### However the model which was trained with group balanced sampling performed well across all kinds of images, indicating it properly learnt to identify the numbers / classes.
 ### ![image](https://github.com/user-attachments/assets/2a6e2d8c-7fcc-4d49-818a-2f6079270c3b)
 
+#### By Ritik Jalisatgi, ritik@ucla.edu, along with help from SpuCo quickstart code
+#### https://github.com/BigML-CS-UCLA/SpuCo/tree/master/quickstart
