@@ -4,7 +4,6 @@
 # Video Explanation
 <p>Explanation of the code and methods can be found here:<br>
 https://www.youtube.com/watch?v=faLSrMWbSXU</p>
-[![Youtube Video](https://img.youtube.com/vi/faLSrMWbSXU/0.jpg)](https://www.youtube.com/watch?v=faLSrMWbSXU)
 
 # Results
 <p>The model that was trained using the George Method and its sampling performed much better in the evaluation than the model which was trained with no particular sampling.
