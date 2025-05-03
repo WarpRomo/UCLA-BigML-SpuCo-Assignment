@@ -6,7 +6,7 @@
 https://www.youtube.com/watch?v=faLSrMWbSXU</p>
 
 ## Results
-<p>The model that was trained using the George Method and its sampling performed much better in the evaluation than the model which was trained with no particular sampling.
+<p>The model that was trained using the George Method much better in the evaluation than the model which was trained with no particular sampling.
 <br>The original model only performs well on images with the spurious feature (background color)</p>
 <img src="https://github.com/user-attachments/assets/04ef4def-f7fa-44cb-8032-f86c08b31c44">
 <p>However the model which was trained with group balanced sampling performed well across all kinds of images, indicating it properly learnt to identify the numbers / classes.</p>
