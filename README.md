@@ -1,5 +1,5 @@
 ## UCLA-BigML-SpuCo-Assignment
-<p>This contains the code for the sample SpuCo assignment, which involves training an accurate model on an MNIST dataset that contains spurious features, such as specific background colors amongst certain classes.</p>
+<p>This repository contains the code for the sample SpuCo assignment, which involves training an accurate model on an MNIST dataset that contains spurious features, such as specific background colors amongst certain classes.</p>
 
 ## Video Explanation
 <p>Explanation of the code and methods can be found here:<br>
