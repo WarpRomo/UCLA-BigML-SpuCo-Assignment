@@ -9,5 +9,5 @@
 <p><br>The model which was trained with group-balanced sampling performed well across all types of images.</p>
 <img src="https://github.com/user-attachments/assets/f64db5bb-9f13-4693-9b06-4d392e4e483a">
 
-<p><br>By Ritik Jalisatgi, ritik@ucla.edu, along with help from SpuCo quickstart code<br>
+<p><br>By Ritik Jalisatgi, ritik at ucla dot edu, along with help from SpuCo quickstart code<br>
 https://github.com/BigML-CS-UCLA/SpuCo/tree/master/quickstart</p>
