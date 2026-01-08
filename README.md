@@ -2,10 +2,6 @@
 <p>This repository contains the code for the sample SpuCo assignment, which involves training an accurate model on an MNIST dataset that contains spurious features, such as specific background colors amongst certain classes.</p>
 <img src="https://github.com/user-attachments/assets/736bb535-ebcd-4d57-a059-e900f92f9c99">
 
-## Video Explanation
-<p>Explanation of the code and methods can be found here:<br>
-https://www.youtube.com/watch?v=faLSrMWbSXU</p>
-
 ## Results
 <p>The model that was trained using George performed much better in the evaluation than the model which was trained with no particular sampling.<br>
 <br>The original model only performs well on images with the spurious feature.</p>
